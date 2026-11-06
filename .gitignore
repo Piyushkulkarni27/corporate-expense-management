@@ -1,0 +1,5 @@
+**/node_modulues/
+**/target/
+**/build/
+**/.env
+.env
